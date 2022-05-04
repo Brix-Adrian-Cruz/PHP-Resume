@@ -65,7 +65,7 @@ echo $resume->hard_skills();
 echo "\n*------->Soft Skills<-------*\n";
 echo $resume->soft_skills();
 
-echo "\n*------->Education:\n";
+echo "\n*------->Education<-------*\n";
 echo $resume->education();
 
 ?>
