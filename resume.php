@@ -49,7 +49,7 @@ $resume->course = "Bachelor of Science in Information and Technology";
 $resume->schoolyear = "2019 - 2022";
 
 echo "\no========{[RESUME]}========o\n\n";
-echo "Full Name: \t\t" . $resume->full_name . "\n";
+echo "Full Name: \t" . $resume->full_name . "\n";
 echo "Email Address: \t" . $resume->email . "\n";
 echo "Phone Number: \t" . $resume->phone . "\n";
 echo "Home Address: \t" . $resume->home . "\n";
